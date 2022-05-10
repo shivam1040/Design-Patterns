@@ -1,0 +1,8 @@
+class obj composition means using object of one class in another to imitate has a or is a relationship
+
+Abstract factory is for creating factory of factories
+
+Flywight objects in flyweight pattern are immutable
+
+in chain of responsibility, loose coupling is achieved when a final object is created by passing through chain of objects and it is the intermediate obj which decides the next process
+
